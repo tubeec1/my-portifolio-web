@@ -30,7 +30,7 @@ const projects = [
     title: "Portfolio Website",
     description:
       "My personal portfolio website to showcase my projects, skills, and contact info. Built with React, Tailwind, and Framer Motion.",
-    link: "https://github.com/yourusername/portfolio",
+    link: "https://github.com/tubeec1/my-portifolio-web",
   },
   {
     title: "MSS Somali",

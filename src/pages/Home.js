@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div>
       {/* Hero section */}
-      <div className="flex flex-col-reverse mt-[240px] md:mt-0 md:flex-row h-[85vh] items-center ">
+      <div className="flex flex-col-reverse mt-[60px] md:mt-0 md:flex-row h-[85vh] items-center ">
         <motion.div
           className="md:w-1/2 flex flex-col md:justify-center md:items-center"
           initial={{ x: -500 }}
