@@ -13,7 +13,7 @@ const About = () => {
 
       <p className="text-lg leading-relaxed mb-4">
         Hi, I'm
-        <span className="font-semibold text-green-600">Mohamed Suleyman</span>,
+        <span className="font-semibold text-green-600"> Mohamed Suleyman</span>,
         a passionate and results-driven{" "}
         <span className="text-green-600 font-medium">Full Stack Developer</span>{" "}
         with a strong focus on building modern, scalable, and user-friendly web
