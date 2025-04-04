@@ -14,7 +14,7 @@ const Home = () => {
           animation={{ transition: "ease", duration: 2, delayChildren: 0.3 }}
         >
           <h1 className="font-bold text-center text-4xl  mb-5 ">
-            I'm <span className="text-green-700"> Mohamed Suleyman</span>
+            Hi, I'm <span className="text-green-700"> Mohamed Suleyman</span>
           </h1>
           <p className="text-justify text-gray-400 text-lg">
             I'm a passionate Full Stack Developer with 2 years of real-world
